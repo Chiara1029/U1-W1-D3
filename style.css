@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Montserrat:ital,wght@0,400;1,600&display=swap');
+
+body{
+    font-family: 'Inclusive Sans', serif;
+}
+
+.header-content{
+    text-align: center;
+    border-bottom: solid 1px orange;
+}
+
+.under-header{
+    background-color: rgb(255, 246, 230);
+    text-align: center;
+    padding: 1px;
+    font-size: 12px;
+    color: rgb(1, 0, 42);
+}
+
+.head-img{
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    width: 800px;
+    margin-inline: auto;
+}
+
+.recipe-title{
+    text-align: center;
+    font-size: 30px;
+}
+
+.videobox{
+    text-align: center;
+    box-shadow: 7px 7px 9px 0px rgb(76 76 76 / 59%);
+    width: 800px;
+}
+
+.second-section h2{
+    border-bottom: solid 1px lightblue;
+}
+
+.third-section h2{
+    border-bottom: solid 1px lightblue;
+}
+
+footer{
+    width: 800px;
+    margin-inline: auto;
+}
+
+.feat{
+    margin-top: 30px;
+    font-size: 15px;
+    border-left: solid 2px orange;
+}
