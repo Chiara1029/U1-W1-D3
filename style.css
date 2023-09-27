@@ -37,13 +37,10 @@ section{
     text-align: center;
     box-shadow: 7px 7px 9px 0px rgb(76 76 76 / 59%);
     width: 800px;
+    border-radius: 6px;
 }
 
-.second-section h2{
-    border-bottom: solid 1px lightblue;
-}
-
-.third-section h2{
+h2{
     border-bottom: solid 1px lightblue;
 }
 
@@ -56,4 +53,15 @@ footer{
     margin-top: 30px;
     font-size: 15px;
     border-left: solid 2px orange;
+    padding: 5px;
+    color: rgb(155, 0, 0);
+}
+
+.second-section li{
+    padding: 5px;
+}
+
+.credits{
+    color: lightgrey;
+    text-align: center;
 }
